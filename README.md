@@ -6,7 +6,7 @@ Water resources control management system, where the responsible administrator c
 
 ```bash
   git clone https://github.com/Wesley00s/Water-control-management-system.git
-  cd water-control-management/src/main/kafka/
+  cd Water-control-management-system/water-control-management/src/main/kafka/
   docker compose up -d
   cd ../../../
   quarkus dev
